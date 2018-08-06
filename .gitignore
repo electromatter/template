@@ -1,0 +1,7 @@
+# Build files
+tmp/
+out/
+
+# Vim swap files
+[._]*.sw[a-zA-Z]
+*~
